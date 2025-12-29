@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "title": "Getting Started with React",
+    "content": "React is a JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called 'components'. React has been designed from the start for gradual adoption, and you can use as little or as much React as you need.",
+    "author": "John Doe",
+    "authorId": "1",
+    "createdAt": "2025-01-15",
+    "category": "React",
+    "excerpt": "Learn the basics of React and why it's so popular among developers.",
+    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=800"
+  },
+  {
+    "id": "2",
+    "title": "Understanding TypeScript",
+    "content": "TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale. It adds optional static typing, classes, interfaces, and other features to JavaScript. TypeScript compiles to clean, simple JavaScript code which runs on any browser, in Node.js, or in any JavaScript engine that supports ECMAScript 3 or newer.",
+    "author": "Jane Smith",
+    "authorId": "2",
+    "createdAt": "2025-01-20",
+    "category": "TypeScript",
+    "excerpt": "A comprehensive guide to TypeScript and its benefits for large-scale applications.",
+    "image": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=800"
+  },
+  {
+    "id": "3",
+    "title": "Tailwind CSS Fundamentals",
+    "content": "Tailwind CSS is a utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup. Instead of fighting against the framework, you can build your designs quickly and consistently without writing custom CSS.",
+    "author": "John Doe",
+    "authorId": "1",
+    "createdAt": "2025-01-25",
+    "category": "CSS",
+    "excerpt": "Master Tailwind CSS and build beautiful interfaces faster than ever.",
+    "image": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?w=800"
+  },
+  {
+    "id": "4",
+    "title": "React Router Explained",
+    "content": "React Router is the standard routing library for React. It keeps your UI in sync with the URL. It has a simple API with powerful features like lazy loading, dynamic route matching, and location transition handling. With React Router, you can handle navigation in your single page application with ease.",
+    "author": "Jane Smith",
+    "authorId": "2",
+    "createdAt": "2025-02-01",
+    "category": "React",
+    "excerpt": "Learn how to handle navigation in your React applications with React Router.",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800"
+  },
+  {
+    "id": "5",
+    "title": "Custom React Hooks",
+    "content": "Hooks are functions that let you 'hook into' React state and lifecycle features from function components. Custom Hooks are a mechanism to reuse stateful logic between different components. You can write your own Hooks that combine state and side effects, and reuse them across your application.",
+    "author": "John Doe",
+    "authorId": "1",
+    "createdAt": "2025-02-10",
+    "category": "React",
+    "excerpt": "Discover how to create and use custom hooks to share logic across components.",
+    "image": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?w=800"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "email": "john@example.com",
+    "password": "password123",
+    "bio": "Senior React Developer with 5+ years of experience. Passionate about teaching and sharing knowledge with the community.",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=John"
+  },
+  {
+    "id": "2",
+    "name": "Jane Smith",
+    "email": "jane@example.com",
+    "password": "password123",
+    "bio": "Full-stack developer specializing in TypeScript and modern web technologies. Love building clean and maintainable code.",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jane"
+  },
+  {
+    "id": "3",
+    "name": "Alex Johnson",
+    "email": "alex@example.com",
+    "password": "password123",
+    "bio": "UI/UX enthusiast and frontend developer. Creating beautiful and intuitive user interfaces is my passion.",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex"
+  }
+]
