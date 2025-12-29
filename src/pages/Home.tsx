@@ -5,7 +5,7 @@ import { Navbar } from '../components/Navbar';
 import { Footer } from '../components/Footer';
 
 export function Home() {
-  const { blogs, loading, getBlogsByCategory } = useBlogs();
+  const { blogs, loading } = useBlogs();
   const [selectedCategory, setSelectedCategory] = useState<string>('All');
   const [searchTerm, setSearchTerm] = useState('');
 

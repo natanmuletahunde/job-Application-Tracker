@@ -90,7 +90,7 @@ export function useBlogs() {
 }
 
 export function useUsers() {
-  const [users, setUsers] = useState(usersData);
+  const [users] = useState(usersData);
 
   const getUserById = (id: string) => {
     return users.find(user => user.id === id);
